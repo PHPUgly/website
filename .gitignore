@@ -6,3 +6,6 @@ composer.lock
 /_cache/
 /node_modules
 /.idea
+/database.rules.json
+/.firebaserc
+/firebase.json
