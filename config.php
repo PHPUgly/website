@@ -36,7 +36,7 @@ return [
      * The number of posts to appear on every page in the blog pages.
      *
      */
-    'postsPerPage' => 5,
+    'postsPerPage' => 10,
 
     /**
      * --------------------------------------------------------------------------

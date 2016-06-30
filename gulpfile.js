@@ -6,7 +6,9 @@ var browserify = require('browserify');
 var uglify = require('gulp-uglify');
 var vueify = require('vueify');
 var streamify = require('gulp-streamify');
-var shell = require('gulp-shell')
+var shell = require('gulp-shell');
+var browserSync = require('browser-sync').create();
+
 
 gulp.task('default', ['watch']);
 

@@ -64,9 +64,7 @@
 
             <div class="col-lg-2 text-right">
                 <p>
-                <div class="right-side">
-                    @include('_includes.sidebar')
-                </div>
+                <div class="right-side"></div>
                 </p>
             </div>
         </div>
