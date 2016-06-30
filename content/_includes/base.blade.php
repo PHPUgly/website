@@ -36,14 +36,17 @@
                     <a href="https://soundcloud.com/phpugly/">SoundCloud</a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/phpugly"><img height="25px" src="@url('twitter.png')"></a>
+                    <a href="https://twitter.com/phpugly"><img height="25px" src="@url('images/twitter.png')"></a>
+                </li>
+                <li>
+                    <a href="http://feeds.soundcloud.com/users/soundcloud:users:212379605/sounds.rss"><img height="25px" src="@url('images/rss-icon.png')"></a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 <header class="image-bg-fluid-height">
-    <img class="img-responsive img-center" src="@url('phpelephant_200x200.png')" alt="">
+    <img class="img-responsive img-center" src="@url('images/phpelephant_200x200.png')" alt="">
 </header>
 
 <section>
@@ -61,6 +64,9 @@
 
             <div class="col-lg-2 text-right">
                 <p>
+                <div class="right-side">
+                    @include('_includes.sidebar')
+                </div>
                 </p>
             </div>
         </div>
@@ -82,8 +88,9 @@
             </div>
             <div class="col-lg-4 text-right">
                 <p>
-                    <a href="https://twitter.com/phpugly"><img height="25px" src="@url('twitter-5-xxl.png')"></a>
-                    <a href="https://github.com/phpugly/podcast"><img height="25px" src="@url('github-10-xxl.png')"></a>
+                    <a href="https://twitter.com/phpugly"><img height="25px" src="@url('images/twitter-5-xxl.png')"></a>
+                    <a href="https://github.com/phpugly/podcast"><img height="25px" src="@url('images/github-10-xxl.png')"></a>
+                    <a href="http://feeds.soundcloud.com/users/soundcloud:users:212379605/sounds.rss"><img height="25px" src="@url('images/rss2-icon.png')"></a>
                 </p>
             </div>
         </div>

@@ -12,10 +12,6 @@
 
             @yield('post_body')
         </div>
-
-        <div class="right-side">
-            @include('_includes.sidebar')
-        </div>
     </div>
 
 @stop

@@ -21,3 +21,11 @@ Vue.use(VueResource);
 //         })
 //     }
 // })
+
+new Vue({
+    el: '...',
+    data: {
+        show: false,
+        transitionName: 'fade'
+    }
+})

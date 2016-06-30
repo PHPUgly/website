@@ -14,8 +14,6 @@
                     <small>{{ $post->date }}</small>
                     <br>
                     {{ str_limit($post->brief, 1300) }}
-
-                    {{ var_dump($post) }}
                 </p>
             </article>
 
@@ -24,8 +22,6 @@
         @include('_includes.blog_paginator')
     </div>
 
-    <div class="right-side">
-        @include('_includes.sidebar')
-    </div>
+
 
 @stop
