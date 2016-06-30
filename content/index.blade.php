@@ -39,7 +39,6 @@
     <h2>Previous Shows</h2>
 
     @foreach($paginatedBlogPosts as $post)
-
         <article>
             <p>
                 <a href="@url($post->path)">{{ $post->title }}</a>
@@ -49,7 +48,6 @@
                 {{ str_limit($post->brief, 300) }}
             </p>
         </article>
-
     @endforeach
 
 
