@@ -1,8 +1,8 @@
 @extends('_includes.blog_post_base')
 
-@section('post::title', 'Episode 15: Coder Boner')
-@section('post::date', 'June 16, 2016')
-@section('post::brief', 'SDPHP Meetup / Friending People / LinkedIn / Github / PyroCMS')
+@section('post::title', 'Episode 16: Protected, Private, and First')
+@section('post::date', 'June 23, 2016')
+@section('post::brief', 'We discuss the latest SD Laravel MeetUp, VueJS, the use of a Single Page Application, difference between Protected, Private, and First')
 @section('pageTitle')- @yield('post::title')@stop
 
 @section('post_body')
