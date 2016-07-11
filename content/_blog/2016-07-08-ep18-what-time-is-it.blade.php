@@ -1,11 +1,22 @@
-@extends('_includes.base')
+@extends('_includes.blog_post_base')
 
-@section('body')
+@section('post::title', 'Episode 18: What Time Is It')
+@section('post::date', 'July 8th, 2016')
+@section('post::brief', '
+        * A blog post called The Autistic Programmer
+        * Do PHP and IoT Have a Future Together?
+        * Pipes (||) vs OR
+        * The joys of Timezones in code. How is the best way to handle them?
+        * Laracon.us now offering a live streaming package
+        * Laravel Package Mailthief
+        * A peak at VueJS 2.0 and what to expect
 
-    <h2>Latest Show</h2>
+')
+@section('pageTitle')- @yield('post::title')@stop
+
+@section('post_body')
 
     <p class="section-paragraph">
-        @markdown
         ### PHPUgly - Episode 18:What Time Is It?
         *recorded July 8th, 2016*
         @endmarkdown
@@ -29,32 +40,17 @@
         expect
 
         ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) / [About.me](https://about.me/thomasrideout)
+        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) /
+        [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
+        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) /
+        [About.me](https://about.me/thomasrideout)
         * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
 
         Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
 
         Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
-
         @endmarkdown
 
     </p>
-    <hr>
-    <h2>Previous Shows</h2>
-
-    @foreach($paginatedBlogPosts as $post)
-        <article>
-            <p>
-                <a href="@url($post->path)">{{ $post->title }}</a>
-                <br>
-                <small>{{ $post->date }}</small>
-                <br>
-                {{ str_limit($post->brief, 300) }}
-            </p>
-        </article>
-    @endforeach
-
 
 @stop
-
