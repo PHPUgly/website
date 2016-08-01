@@ -1,8 +1,18 @@
-@extends('_includes.base')
+@extends('_includes.blog_post_base')
 
-@section('body')
+@section('post::title', 'Episode 21: Fueled by Kentucky Bourbon')
+@section('post::date', 'July 29th, 2016')
+@section('post::brief', '
+        * SDLUG Meetup
+        * Laracon Annoucements
+        * More drama at the PHP FIG
+        * Rasmus Lerdorf: All frameworks suck
+        * How we broke PHP, hacked Pornhub and earned $20,000
 
-    <h2>Latest Show</h2>
+')
+@section('pageTitle')- @yield('post::title')@stop
+
+@section('post_body')
 
     <p class="section-paragraph">
         @markdown
@@ -32,25 +42,8 @@
         Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
 
         Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
-
         @endmarkdown
 
     </p>
-    <hr>
-    <h2>Previous Shows</h2>
-
-    @foreach($paginatedBlogPosts as $post)
-        <article>
-            <p>
-                <a href="@url($post->path)">{{ $post->title }}</a>
-                <br>
-                <small>{{ $post->date }}</small>
-                <br>
-                {{ str_limit($post->brief, 300) }}
-            </p>
-        </article>
-    @endforeach
-
 
 @stop
-

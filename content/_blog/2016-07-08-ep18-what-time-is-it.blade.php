@@ -17,6 +17,7 @@
 @section('post_body')
 
     <p class="section-paragraph">
+        @markdown
         ### PHPUgly - Episode 18:What Time Is It?
         *recorded July 8th, 2016*
         @endmarkdown
