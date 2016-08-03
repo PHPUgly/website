@@ -9,3 +9,6 @@ composer.lock
 /database.rules.json
 /.firebaserc
 /firebase.json
+/phpugly-podcast-website.sublime-workspace
+/phpugly-podcast-website.sublime-project
+/composer.sublime-workspace

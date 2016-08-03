@@ -6,8 +6,8 @@
 
     <p class="section-paragraph">
         @markdown
-        ### PHPUgly - Episode 21
-        *recorded July 29t, 2016*
+        ### [PHPUgly - Episode 21](/ep21-fueled-by-kentucky-bourbon-20160729/)
+        *recorded July 29th, 2016*
         @endmarkdown
 
         <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276287000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
@@ -24,14 +24,6 @@
         * [How we broke PHP, hacked Pornhub and earned $20,000](https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/)
 
 
-        ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) / [About.me](https://about.me/thomasrideout)
-        * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
-
-        Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
-
-        Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
 
         @endmarkdown
 
@@ -39,7 +31,7 @@
     <hr>
     <p class="section-paragraph">
         @markdown
-        ### PHPUgly - Episode 20
+        ### [PHPUgly - Episode 20](/ep20-man-down-20160714/)
         *recorded July 21st, 2016*
         @endmarkdown
 
@@ -59,14 +51,6 @@
         On a side note, we would like to welcome the newest member of the PHPUgly family, Nolan Congdon, new son of the host [ John  Congdon ](https://twitter.com/johncongdon). All our best wishes go out to the entire Congdon family.
 
 
-        ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) / [About.me](https://about.me/thomasrideout)
-        * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
-
-        Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
-
-        Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
         @endmarkdown
 
     </p>
@@ -74,7 +58,7 @@
 
     <p class="section-paragraph">
         @markdown
-        ### PHPUgly - Episode 19
+        ### [PHPUgly - Episode 19](/ep19-use-a-password-manager-20160714/)
         *recorded July 14th, 2016*
         @endmarkdown
         <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274168460&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
@@ -94,14 +78,6 @@
         * Running your [RaspberryPi with PHP](https://www.sitepoint.com/powering-raspberry-pi-projects-with-php/)
 
 
-        ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) / [About.me](https://about.me/thomasrideout)
-        * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
-
-        Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
-
-        Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
         @endmarkdown
 
     </p>
@@ -109,7 +85,7 @@
 
     <p class="section-paragraph">
         @markdown
-        ### PHPUgly - Episode 18:What Time Is It?
+        ### [PHPUgly - Episode 18:What Time Is It?](/ep18-what-time-is-it-20160708/)
         *recorded July 8th, 2016*
         @endmarkdown
 
@@ -131,23 +107,14 @@
         * A peak at [VueJS 2.0](https://dotdev.co/peeking-into-vue-js-2-part-1-b457e60c88c6#.cgxxbjbef) and what to
         expect
 
-        ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) /
-        [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) /
-        [About.me](https://about.me/thomasrideout)
-        * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
 
-        Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
-
-        Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
         @endmarkdown
 
     </p>
     <hr>
     <p class="section-paragraph">
         @markdown
-        #### Episode 17:Trademark This
+        #### [Episode 17:Trademark This](/ep17-trademark-this-20160630/)
         *recorded June 30th, 2016*
         @endmarkdown
 
@@ -165,16 +132,6 @@
         * [Zend Framework 3.0 released](https://github.com/zendframework/zendframework/releases/tag/release-3.0.0)
         * [EU's Crazy Cookie Laws](https://murze.be/2016/06/make-laravel-app-comply-crazy-eu-cookie-law/)
 
-        ## The hosts
-        * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) /
-        [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm)
-        * Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) /
-        [About.me](https://about.me/thomasrideout)
-        * John Congdon [Twitter](https://twitter.com/johncongdon) / [Github](https://github.com/johncongdon)
-
-        Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly)
-
-        Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
         @endmarkdown
 
     </p>
