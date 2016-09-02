@@ -60,31 +60,6 @@
 
     </p>
     <hr>
-    <p class="section-paragraph">
-        @markdown
-        ### PHPUgly - Episode 23
-        *recorded August 11th, 2016*
-        @endmarkdown
-
-        <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278378405&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-        @markdown
-        [Sound Cloud](https://soundcloud.com/phpugly/episode23)
-
-        **Topics**
-
-        * [Be the first employee at Laravel](https://larajobs.com/job/565/will-you-be-employee-1-at-laravel)
-        * [Laracon Videos Available](https://streamacon.com/video/laracon-us)
-        * [PHP-FIG Goes 3.0](https://medium.com/@michaelcullumuk/fig-3-0-91dbfd21c93b#.8uz4uo1mc)
-        * [OMB finalizes policy on open source code from agencies](http://fedscoop.com/omb-code-gov-open-source-tony-scott-august-2016)
-        * [PHP 7.1 Beta 2](http://php.net/index.php#id2016-08-04-1)
-        * [Testla car drives owner to hospital](http://www.bbc.co.uk/newsbeat/article/37009696/tesla-car-drives-owner-to-hospital-after-he-suffers-pulmonary-embolism)
-        * [Hulu ending free service](http://mashable.com/2016/08/08/hulu-ending-free-service/#JcHJTctMtOqw)
-        * [I want to know what code is running inside my body](https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b#.mys4uytmt)o
-        @endmarkdown
-
-    </p>
-    <hr>
     <h2>Previous Shows</h2>
 
     @foreach($paginatedBlogPosts as $post)
