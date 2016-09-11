@@ -9,7 +9,7 @@
         ### PHPUgly - Episode 27
         *recorded September 8st, 2016*
         @endmarkdown
-
+<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282479267&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
         @markdown
         [Sound Cloud](https://soundcloud.com/phpugly/episode27) | [Video](https://youtu.be/BaGA8C95J3c)
 
